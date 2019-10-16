@@ -7,4 +7,3 @@ This repository is full of OpenCV programs and experiment performed by me.
 - drawing_functions => various drawing function in opencv // to be added soon...
 	- task1 create opencv logo with these drawinf functions
 - Trackbar => the application of trackbar
-

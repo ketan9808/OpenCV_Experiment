@@ -8,3 +8,6 @@ This repository is full of OpenCV programs and experiment performed by me.
 This program illustrate the use of various drawing functin in OpenCV like line, rectangle, circle, ellipse, polyline, text in an image and at last there is a program to create opencv logo using opencv\'s drawing functions.
 
 - Trackbar => the application of trackbar
+
+- VideoWriter => Video Writer is used to create video using the frame provided to it.
+	
